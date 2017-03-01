@@ -1,0 +1,8 @@
+{
+    "name": "itmarketing/test-payment",
+    "autoload": {
+        "psr-4": {
+            "TestPayment\\": "src"
+        }
+    }
+}
